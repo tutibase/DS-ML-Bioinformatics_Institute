@@ -1,0 +1,2 @@
+https://stepik.org/media/attachments/course/4852/event_data_train.zip
+https://stepik.org/media/attachments/course/4852/submissions_data_train.zip
